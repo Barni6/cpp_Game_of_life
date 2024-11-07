@@ -1,0 +1,8 @@
+﻿  Game_of_life.cpp
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\5.félév\C++\Game_of_life\Game_of_life\Game_of_life.cpp(9,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\5.félév\C++\Game_of_life\Game_of_life\Game_of_life.cpp(10,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\5.félév\C++\Game_of_life\Game_of_life\Game_of_life.cpp(14,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\5.félév\C++\Game_of_life\Game_of_life\Game_of_life.cpp(15,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\5.félév\C++\Game_of_life\Game_of_life\Game_of_life.cpp(19,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\5.félév\C++\Game_of_life\Game_of_life\Game_of_life.cpp(24,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game_of_life.vcxproj -> C:\Users\bszom\OneDrive\Desktop\Alkalmazás_cuccok\5.félév\C++\Game_of_life\x64\Debug\Game_of_life.exe
